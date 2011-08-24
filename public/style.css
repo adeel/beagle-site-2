@@ -69,8 +69,8 @@ div {
       margin-top: 20px; }
       #wrapper .activity .tasks .task-wrapper {
         display: table-cell;
-        width: 11%;
-        padding: 0 2px; }
+        width: 16%;
+        padding: 0 10px; }
         #wrapper .activity .tasks .task-wrapper .task {
           color: #e0ca61;
           background-color: #333333;
